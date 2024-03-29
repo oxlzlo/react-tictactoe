@@ -1,0 +1,10 @@
+.status {
+  margin-bottom: 10px;
+}
+
+.board-wrapper {
+  border: 1px solid #5b34e6;
+  box-shadow: #5c4ad3 0px 10px 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}
